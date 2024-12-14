@@ -1,0 +1,4 @@
+I changed the code by a little bit
+Now im including Try and Except here
+The try and except are used to make the code automatically quit if someone try put string in the input
+Because in the input, it has accept only a numerical expression!
